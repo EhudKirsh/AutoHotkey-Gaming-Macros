@@ -26,4 +26,5 @@ Steps to use AutoHotkey (AHK) macros:
 4) Double-click the new .ahk file you created and saved in the folder it was saved. This macro is activated when you can see the green H icon in the right of the taskbar.
 <img src='Taskbar.jpg' width='70%' height='70%'>
 You can right-click on this icon and press 'Exit' to quit the macro.
+
 Hovering over it with the mouse cursor shows its name, in case you have multiple macros activated.
