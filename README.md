@@ -12,7 +12,7 @@ if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 }
 return
 ```
-
+---
 Steps to use AutoHotkey (AHK) macros: 
 
 1) Download AutoHotkey from: https://www.autohotkey.com
@@ -23,7 +23,9 @@ Steps to use AutoHotkey (AHK) macros:
 
 3) Press Edit. Copy & paste the above script. It can be editted in Notepad or VS Code.
 
-4) Double-click the new .ahk file you created and saved in the folder it was saved. This macro is activated when you can see the green H icon in the right of the taskbar.
+4) Double-click the new .ahk file you created and saved in the folder it was saved.
+  <img src='Folder.jpg' width='60%' height='60%'>
+   This macro is activated when you can see the green H icon in the right of the taskbar.
 <img src='Taskbar.jpg' width='70%' height='70%'>
 You can right-click on this icon and press 'Exit' to quit the macro.
 
