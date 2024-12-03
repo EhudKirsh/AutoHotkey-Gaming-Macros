@@ -15,7 +15,7 @@ return
 ---
 Steps to use AutoHotkey (AHK) macros: 
 
-1) Download AutoHotkey from: https://www.autohotkey.com
+1) Download <a href="https://www.autohotkey.com" target="_blank" rel="noopener noreferrer">AutoHotkey</a>
 
 2) Click on 'New script' in AutoHotkey Dash and name it something nice.
 <img src='AutoHotkey Dash.jpg' width='70%' height='70%'>
