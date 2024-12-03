@@ -13,6 +13,7 @@ if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 return
 ```
 Examples of flash games where this macro is useful are: Crusader Tank (games attached above)
+
 <img src='Crusader Tank.jpg' width='60%' height='60%'>
 
 ---
@@ -29,6 +30,7 @@ Loop
 return
 ```
 Examples of flash games where this macro is useful are: Crusader Tank, Miniclip's Commando Series (games attached above)
+
 <img src='Commando.jpg' width='60%' height='60%'>
 
 ---
