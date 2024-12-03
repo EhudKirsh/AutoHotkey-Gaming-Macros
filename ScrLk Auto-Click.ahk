@@ -1,11 +1,11 @@
 ﻿#Persistent ; Keeps the script running
-SetTimer, CheckScrLk, 100 ; Check every 100ms
+SetTimer, CheckScrLk, 10 ; Check every 10ms
 return
 
 CheckScrLk:
 if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 {
     Click ; Simulate a mouse click
-    Sleep, 100 ; Add delay between clicks (adjust as needed)
+    Sleep, 1 ; Add delay between clicks (adjust as needed)
 }
 return
