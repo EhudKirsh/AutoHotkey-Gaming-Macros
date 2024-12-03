@@ -13,6 +13,7 @@ if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 return
 ```
 Examples of flash games where this macro is useful are: Crusader Tank (games attached above)
+<img src='Crusader Tank.jpg' width='60%' height='60%'>
 
 ---
 Likewise, some games that only allow tap and burst fire have limited ammo or require reloading, so it's best to have a macro that simulates fast Left-Mouse Button (LMB) tapping simply by holding the LMB, as if the game allows for fully-automatic firing. The script below acomplishes this:
@@ -28,6 +29,7 @@ Loop
 return
 ```
 Examples of flash games where this macro is useful are: Crusader Tank, Miniclip's Commando Series (games attached above)
+<img src='Commando.jpg' width='60%' height='60%'>
 
 ---
 Steps to use AutoHotkey (AHK) macros: 
