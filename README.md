@@ -21,5 +21,7 @@ Steps to use AutoHotkey (AHK) macros:
 <img src='AutoHotkey Dash.jpg' width='70%' height='70%'>
 <img src='New Script.jpg' width='35%' height='35%'>
 
-4) Double-click on it to activate it in the right in the taskbar.
+3) Press Edit. Copy & paste the above script. It can be editted in Notepad or VS Code.
+
+4) Double-click the green H icon in the right of the taskbar to activate the macro.
 <img src='Taskbar.jpg' width='70%' height='70%'>
