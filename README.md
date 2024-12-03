@@ -1,6 +1,6 @@
 Do you want to fire fully-automatically in games that only let you tap or burst fire? These macros simulate repeated Left-Mouse Button (LMB) clicks and effectively implement full-auto firing.
 
-For games that have infinite ammo, you can actually make use of the otherwise useless Scroll Lock (ScrLk) button. The macro below simulates LMB clicks when ScrLk's LED on your keyboard is on, and stop when you press ScrLk again and turn ScrLk's LED off. You can click on ScrLk to re-start and re-pause this macro as many times as you would like.
+For games that have infinite ammo, you can actually make use of the otherwise useless Scroll Lock (ScrLk) button. The macro below simulates LMB clicks when ScrLk's LED on your keyboard is on, and stop when you press ScrLk again and turn ScrLk's LED off. You can press on ScrLk to re-start and re-pause this macro as many times as you would like.
 ```AHK
 #Persistent ; Keeps the script running
 SetTimer, CheckScrLk, 10 ; Check every 10ms
