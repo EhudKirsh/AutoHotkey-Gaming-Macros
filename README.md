@@ -1,17 +1,32 @@
 If you want to tap-fire or burst-fire with mouse left-clicks in a game that has infinite ammo but doesn't allow holding down the left mouse key for auto-fire, this macro below constantly simulates left-clicks 10 times a second. It activates when the ScrLk button is on (you can see its LED on your keyboard) and it stops when ScrLk is turned off. You can still move the mouse as usual and click on ScrLk to re-start and re-pause this macro as many times as you would like.
 ```AHK
 #Persistent ; Keeps the script running
-SetTimer, CheckScrLk, 100 ; Check every 100ms
+SetTimer, CheckScrLk, 10 ; Check every 10ms
 return
 
 CheckScrLk:
 if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 {
     Click ; Simulate a mouse click
-    Sleep, 100 ; Add delay between clicks (adjust as needed)
+    Sleep, 1 ; Add delay between clicks (adjust as needed)
 }
 return
 ```
+Examples of flash games where this macro is useful are: Crusader Tank
+---
+Likewise, some games that only allow tap and burst fire have limited ammo or require reloading, so it's best to have a macro that simulates fast Left-Mouse Button (LMB) tapping simply by holding the LMB, as if the game allows for fully-automatic firing. The script below acomplishes this:
+```AHK
+$LButton:: ; Custom handler for the left mouse button
+Loop
+{
+    if !GetKeyState("LButton", "P") ; If the button is released, exit the loop
+        break
+    Click ; Simulate a left mouse click
+    Sleep, 1 ; Delay between simulated clicks (adjust as needed)
+}
+return
+```
+Examples of flash games where this macro is useful are: Miniclip's Commando Series
 ---
 Steps to use AutoHotkey (AHK) macros: 
 
