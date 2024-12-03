@@ -12,3 +12,11 @@ if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 }
 return
 ```
+
+Steps to use AutoHotkey (AHK) macros: 
+
+1) Download AutoHotkey from: https://www.autohotkey.com
+
+2) Click on 'New script' in AutoHotkey Dash and name it something nice.
+
+3) Double-click on it to activate it in the right in the taskbar.
