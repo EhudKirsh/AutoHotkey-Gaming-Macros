@@ -18,5 +18,8 @@ Steps to use AutoHotkey (AHK) macros:
 1) Download AutoHotkey from: https://www.autohotkey.com
 
 2) Click on 'New script' in AutoHotkey Dash and name it something nice.
+<img src='AutoHotkey Dash.jpg' width='70%' height='70%'>
+<img src='New Script.jpg' width='35%' height='35%'>
 
-3) Double-click on it to activate it in the right in the taskbar.
+4) Double-click on it to activate it in the right in the taskbar.
+<img src='Taskbar.jpg' width='70%' height='70%'>
