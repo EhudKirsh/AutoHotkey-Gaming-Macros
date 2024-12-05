@@ -25,7 +25,7 @@ Examples of flash games (attached above) where this macro is useful are:
 
 <img src='Games Screenshots/Arcane.jpg' width='80%' height='80%'>
 
-<!-- <ins>Bowmaster Prelude</ins> -->
+<!-- <ins>LostVectors' Bowmaster Prelude</ins> -->
 
 ---
 Likewise, some games that only allow tap and burst fire have stealth, limited ammo, require reloading, slow movement when firing or having to be extra careful not to shoot at certain objects, so it's best to have a macro that simulates LMB clicks simply by holding the LMB, so you can quickly unclick. The script below accomplishes this:
