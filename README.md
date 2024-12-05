@@ -53,17 +53,17 @@ Steps to use AutoHotkey (AHK) macros:
 1) Download <a href="https://www.autohotkey.com" target="_blank" rel="noopener noreferrer">AutoHotkey</a>
 
 2) Click on 'New script' in AutoHotkey Dash and name it something nice.
-<img src='AutoHotkey Dash.jpg' width='70%' height='70%'>
-<img src='New Script.jpg' width='35%' height='35%'>
+<img src='Technical Screenshots/AutoHotkey Dash.jpg' width='70%' height='70%'>
+<img src='Technical Screenshots/New Script.jpg' width='35%' height='35%'>
 
 3) Press Edit. Copy & paste the above script. It can be editted in Notepad or VS Code.
 
 4) Double-click the new .ahk file you created and saved in the folder it was saved.
-  <img src='Folder.jpg' width='60%' height='60%'>
+  <img src='Technical Screenshots/Folder.jpg' width='60%' height='60%'>
 This macro is activated when you can see the green H icon in the right of the taskbar.
 
 You can right-click on this icon and press 'Exit' to quit the macro.
 
 Hovering over it with the mouse cursor shows its name, in case you have multiple macros activated.
 
-<img src='Hover.jpg' width='70%' height='70%'>
+<img src='Technical Screenshots/Hover.jpg' width='70%' height='70%'>
