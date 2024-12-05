@@ -1,6 +1,6 @@
 Do you want to fire fully-automatically in games that only let you tap or burst fire? These macros simulate repeated Left-Mouse Button (LMB) clicks and effectively implement full-auto firing.
 
-For games that have infinite ammo, you can actually make use of the otherwise useless Scroll Lock (ScrLk) button. The macro below simulates LMB clicks when ScrLk's LED on your keyboard is on, and stop when you press ScrLk again and turn ScrLk's LED off. You can press on ScrLk to re-start and re-pause this macro as many times as you would like.
+For games that have infinite ammo, and firing doesn't slow down movement, you can actually make use of the otherwise useless Scroll Lock (ScrLk) button. The macro below simulates LMB clicks when ScrLk's LED on your keyboard is on, and stop when you press ScrLk again and turn ScrLk's LED off. You can press on ScrLk to re-start and re-pause this macro as many times as you would like.
 ```AHK
 #Persistent ; Keeps the script running
 SetTimer, CheckScrLk, 10 ; Check every 10ms
@@ -14,12 +14,18 @@ if GetKeyState("ScrollLock", "T") ; If Scroll Lock is toggled on
 }
 return
 ```
-Examples of flash games where this macro is useful are: Crusader Tank (games attached above)
+Examples of flash games (attached above) where this macro is useful are: 
+
+Crusader Tank
 
 <img src='Crusader Tank.jpg' width='80%' height='80%'>
 
+Arcane - The Armor Collector (Switch to melee next to friendlies to avoid friendly-fire)
+
+<img src='Arcane.jpg' width='80%' height='80%'>
+
 ---
-Likewise, some games that only allow tap and burst fire have limited ammo or require reloading, so it's best to have a macro that simulates fast LMB clicks simply by holding the LMB. The script below accomplishes this:
+Likewise, some games that only allow tap and burst fire have limited ammo, require reloading, slow movement when firing or having to be extra careful not to shoot at certain objects, so it's best to have a macro that simulates LMB clicks simply by holding the LMB, so you can quickly unclick. The script below accomplishes this:
 ```AHK
 $LButton:: ; Custom handler for the left mouse button
 Loop
@@ -31,7 +37,9 @@ Loop
 }
 return
 ```
-Examples of flash games where this macro is useful are: Crusader Tank, Miniclip's Commando Series (games attached above)
+Examples of flash games (attached above) where this macro is useful are: Crusader Tank, 
+
+Miniclip's Commando Series
 
 <img src='Commando.jpg' width='70%' height='70%'>
 
