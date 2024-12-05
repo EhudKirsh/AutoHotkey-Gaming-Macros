@@ -18,14 +18,14 @@ Examples of flash games (attached above) where this macro is useful are:
 
 Crusader Tank
 
-<img src='Crusader Tank.jpg' width='80%' height='80%'>
+<img src='Games Screenshots/Crusader Tank.jpg' width='80%' height='80%'>
 
 Arcane - The Armor Collector (Switch to melee next to friendlies to avoid friendly-fire)
 
-<img src='Arcane.jpg' width='80%' height='80%'>
+<img src='Games Screenshots/Arcane.jpg' width='80%' height='80%'>
 
 ---
-Likewise, some games that only allow tap and burst fire have limited ammo, require reloading, slow movement when firing or having to be extra careful not to shoot at certain objects, so it's best to have a macro that simulates LMB clicks simply by holding the LMB, so you can quickly unclick. The script below accomplishes this:
+Likewise, some games that only allow tap and burst fire have stealth, limited ammo, require reloading, slow movement when firing or having to be extra careful not to shoot at certain objects, so it's best to have a macro that simulates LMB clicks simply by holding the LMB, so you can quickly unclick. The script below accomplishes this:
 ```AHK
 $LButton:: ; Custom handler for the left mouse button
 Loop
@@ -41,7 +41,11 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 
 Miniclip's Commando Series
 
-<img src='Commando.jpg' width='70%' height='70%'>
+<img src='Games Screenshots/Commando.jpg' width='70%' height='70%'>
+
+LostVectors' Red Dragon
+
+<img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
 
 ---
 Steps to use AutoHotkey (AHK) macros: 
