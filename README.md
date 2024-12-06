@@ -19,15 +19,11 @@ Examples of flash games (attached above) where this macro is useful are:
 
 <ins>Crusader Tank</ins>
 
-<p align="center">
-    <img src='Games Screenshots/Crusader Tank.jpg' width='80%' height='80%'>
-</p>
+<img src='Games Screenshots/Crusader Tank.jpg'>
 
 <ins>Arcane - The Armor Collector</ins> (Switch to melee next to friendlies to avoid friendly-fire)
 
-<p align="center">
-    <img src='Games Screenshots/Arcane.jpg' width='80%' height='80%'>
-</p>
+<img src='Games Screenshots/Arcane.jpg'>
 
 <ins>LostVectors' Bowmaster Prelude</ins>
 
@@ -50,15 +46,11 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 
 <ins>Miniclip's Commando</ins>
 
-<p align="center">
-    <img src='Games Screenshots/Commando.jpg' width='70%' height='70%'>
-</p>
+<img src='Games Screenshots/Commando.jpg'>
 
 <ins>LostVectors' Red Dragon</ins>
 
-<p align="center">
-    <img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
-</p>
+<img src='Games Screenshots/Red Dragon.jpg'>
 
 ---
 <ins>Steps to use AutoHotkey (AHK) macros:</ins>
@@ -66,17 +58,17 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 1) Download <a href="https://www.autohotkey.com" target="_blank" rel="noopener noreferrer">AutoHotkey</a>
 
 2) Click on 'New script' in AutoHotkey Dash and name it something nice.
-<img src='Technical Screenshots/AutoHotkey Dash.jpg' width='70%' height='70%'>
-<img src='Technical Screenshots/New Script.jpg' width='35%' height='35%'>
+<img src='Technical Screenshots/AutoHotkey Dash.jpg'>
+<img src='Technical Screenshots/New Script.jpg'>
 
 3) Press Edit. Copy & paste the above script. It can be editted in Notepad or VS Code.
 
 4) Double-click the new .ahk file you created and saved in the folder it was saved.
-  <img src='Technical Screenshots/Folder.jpg' width='60%' height='60%'>
+  <img src='Technical Screenshots/Folder.jpg'>
 This macro is activated when you can see the green H icon in the right of the taskbar.
 
 You can right-click on this icon and press 'Exit' to quit the macro.
 
 Hovering over it with the mouse cursor shows its name, in case you have multiple macros activated.
 
-<img src='Technical Screenshots/Hover.jpg' width='70%' height='70%'>
+<img src='Technical Screenshots/Hover.jpg'>
