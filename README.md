@@ -19,11 +19,15 @@ Examples of flash games (attached above) where this macro is useful are:
 
 <ins>Crusader Tank</ins>
 
-<img src='Games Screenshots/Crusader Tank.jpg' width='80%' height='80%'>
+<p align="center">
+    <img src='Games Screenshots/Crusader Tank.jpg' width='80%' height='80%'>
+</p>
 
 <ins>Arcane - The Armor Collector</ins> (Switch to melee next to friendlies to avoid friendly-fire)
 
-<img src='Games Screenshots/Arcane.jpg' width='80%' height='80%'>
+<p align="center">
+    <img src='Games Screenshots/Arcane.jpg' width='80%' height='80%'>
+</p>
 
 <ins>LostVectors' Bowmaster Prelude</ins>
 
@@ -46,11 +50,15 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 
 <ins>Miniclip's Commando</ins>
 
-<img src='Games Screenshots/Commando.jpg' width='70%' height='70%'>
+<p align="center">
+    <img src='Games Screenshots/Commando.jpg' width='70%' height='70%'>
+</p>
 
 <ins>LostVectors' Red Dragon</ins>
 
-<img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
+<p align="center">
+    <img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
+</p>
 
 ---
 <ins>Steps to use AutoHotkey (AHK) macros:</ins>
