@@ -27,7 +27,7 @@ Examples of flash games (attached above) where this macro is useful are:
 
 <ins>LostVectors' Bowmaster Prelude</ins>
 
-<img src='Games Screenshots/Bowmaster Prelude.jpg' width='80%' height='80%'>
+<img src='Games Screenshots/Bowmaster Prelude.jpg'>
 
 ---
 Likewise, some games that only allow tap and burst fire have stealth, limited ammo, require reloading, slow movement when firing or having to be extra careful not to shoot at certain objects, so it's best to have a macro that simulates LMB clicks simply by holding the LMB, so you can quickly unclick. The script below accomplishes this:
@@ -50,7 +50,7 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 
 <ins>LostVectors' Red Dragon</ins>
 
-<img src='Games Screenshots/Red Dragon.jpg'>
+<img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
 
 ---
 <ins>Steps to use AutoHotkey (AHK) macros:</ins>
