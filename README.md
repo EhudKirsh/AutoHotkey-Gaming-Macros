@@ -50,7 +50,7 @@ Examples of flash games (attached above) where this macro is useful are: Crusade
 
 <ins>LostVectors' Red Dragon</ins>
 
-<img src='Games Screenshots/Red Dragon.jpg' width='70%' height='70%'>
+<img src='Games Screenshots/Red Dragon.jpg'>
 
 ---
 <ins>Steps to use AutoHotkey (AHK) macros:</ins>
